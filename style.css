@@ -1,5 +1,5 @@
 body{
-    background: linear-gradient(#12c2e9 0%, #c471ed 50%,#f64f59 100%);
+    background: linear-gradient(#A770EF 0%, #CF8BF3 50%,#FDB99B 100%);
     color: white;
 }
 .head{
@@ -7,8 +7,8 @@ body{
     font-size: 22px;
 }
 
-.objects,#object_name,#object_acc{
-    color: yellow;
+.objects,#facename,#faceacc{
+    color: white;
 }
 #camera{
     border: 2px dashed black;
